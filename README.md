@@ -10,7 +10,7 @@ pip install -r requirements.txt
 # Tasks
 | Topic | Data | Codes |
 | --------------- | --------------- | --------------- |
-| ...    | ...    | ...    |
+| Bayesian Learning    | [tennis](https://github.com/hseysen/machine_learning_bhos/blob/main/data/tennis.csv)    | [iPython Notebook](https://github.com/hseysen/machine_learning_bhos/blob/main/code/tennis.ipynb) and [UI Application](https://github.com/hseysen/machine_learning_bhos/blob/main/code/tennis.py)    |
 | ...    | ...    | ...    |
 | ...    | ...    | ...    |
 | ...    | ...    | ...    |
